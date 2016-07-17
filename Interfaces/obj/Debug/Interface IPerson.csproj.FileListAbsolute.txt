@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Interfaces\obj\Debug\Interface IPerson.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
