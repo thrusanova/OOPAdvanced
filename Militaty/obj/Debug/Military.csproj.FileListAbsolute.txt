@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Militaty\bin\Debug\Militaty.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Militaty\obj\Debug\Military.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Militaty\bin\Debug\Militaty.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Militaty\bin\Debug\Militaty.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Militaty\obj\Debug\Militaty.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\Militaty\obj\Debug\Militaty.pdb
