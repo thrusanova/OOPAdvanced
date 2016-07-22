@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Generics\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Generics\Tuple\bin\Debug\Tuple.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Generics\Tuple\bin\Debug\Tuple.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Generics\Tuple\obj\Debug\Tuple.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Generics\Tuple\obj\Debug\Tuple.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Generics\Tuple\obj\Debug\Tuple.pdb
