@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\ExplicitInterface\obj\Debug\ExplicitInterface.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\ExplicitInterface\obj\Debug\ExplicitInterface.pdb

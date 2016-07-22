@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\borderControl\bin\Debug\borderControl.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\borderControl\bin\Debug\borderControl.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\borderControl\bin\Debug\borderControl.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\borderControl\obj\Debug\borderControl.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\borderControl\obj\Debug\borderControl.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\borderControl\obj\Debug\borderControl.pdb

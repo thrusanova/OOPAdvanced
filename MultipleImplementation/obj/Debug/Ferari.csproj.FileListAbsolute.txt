@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\MultipleImplementation\bin\Debug\MultipleImplementation.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\MultipleImplementation\obj\Debug\Ferari.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\MultipleImplementation\bin\Debug\MultipleImplementation.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\MultipleImplementation\bin\Debug\MultipleImplementation.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\MultipleImplementation\obj\Debug\MultipleImplementation.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPAdvanced\Interfaces\MultipleImplementation\obj\Debug\MultipleImplementation.pdb
